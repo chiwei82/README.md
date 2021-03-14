@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chiwei82
-- 👀 I’m interested in data abalyst
+- 👀 I’m interested in data analysis
 - 🌱 I’m currently learning data visualization and interactive econ data express
 - 📫 How to reach me: s481597@gmail.com
 
